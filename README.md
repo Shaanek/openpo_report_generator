@@ -168,4 +168,4 @@ Feel free to fork the repository and submit pull requests if you have improvemen
 
 ## **Contact**
 
-For any questions or support, please contact [your-email@example.com].
+For any questions or support, please contact [srekatpure@gmail.com].
